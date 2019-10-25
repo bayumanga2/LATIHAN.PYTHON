@@ -34,7 +34,7 @@ Lanjut, klik creat a new repository isi repository name lalu klik creat reposito
 13. Jalankan perintah "git commit -m" untuk menyimpan perubahan yang ada ke dalam database repository
 ![git 9 git push](https://user-images.githubusercontent.com/56962466/67508389-20231c80-f6bb-11e9-8f9f-22882b840dfb.png)
 14. copy url akun GIT pada tampilan repository. url tersebut akan digunakan untuk perintah "git remote add origin [url]
-15. Masukan perintah "git remote add origin[url]. Contoh "git remote add origin https
+15. Masukan perintah "git remote add origin[url] yang telah di copy
 
 16. Cek hasilnya di github dan lihat repositornya
 ![git 10 hasil repository](https://user-images.githubusercontent.com/56962466/67509276-d804f980-f6bc-11e9-87e3-6f90a8b77011.png)
